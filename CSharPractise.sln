@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{78F506E8-3EEA-4F1B-8DED-D81C797BB383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find highest character", "find highest character\find highest character.csproj", "{2F69D47B-7710-41D9-A263-59E952609F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Practise", "LINQ-Practise\LINQ-Practise.csproj", "{270405AA-92DE-477A-86C8-262FE915E550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{8F7B65C4-311C-4763-B456-070EA93EF606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deletegate-Core", "Deletegate-Core\Deletegate-Core.csproj", "{23A15772-E86D-491B-B9D6-15B21FE24364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceStringApp", "ReplaceStringApp\ReplaceStringApp.csproj", "{0B125E41-DB24-43DF-B10B-D6EF3707E86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F506E8-3EEA-4F1B-8DED-D81C797BB383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F506E8-3EEA-4F1B-8DED-D81C797BB383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F506E8-3EEA-4F1B-8DED-D81C797BB383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F506E8-3EEA-4F1B-8DED-D81C797BB383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F69D47B-7710-41D9-A263-59E952609F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F69D47B-7710-41D9-A263-59E952609F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F69D47B-7710-41D9-A263-59E952609F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F69D47B-7710-41D9-A263-59E952609F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270405AA-92DE-477A-86C8-262FE915E550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270405AA-92DE-477A-86C8-262FE915E550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270405AA-92DE-477A-86C8-262FE915E550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270405AA-92DE-477A-86C8-262FE915E550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7B65C4-311C-4763-B456-070EA93EF606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7B65C4-311C-4763-B456-070EA93EF606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7B65C4-311C-4763-B456-070EA93EF606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7B65C4-311C-4763-B456-070EA93EF606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A15772-E86D-491B-B9D6-15B21FE24364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A15772-E86D-491B-B9D6-15B21FE24364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A15772-E86D-491B-B9D6-15B21FE24364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A15772-E86D-491B-B9D6-15B21FE24364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B125E41-DB24-43DF-B10B-D6EF3707E86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B125E41-DB24-43DF-B10B-D6EF3707E86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B125E41-DB24-43DF-B10B-D6EF3707E86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B125E41-DB24-43DF-B10B-D6EF3707E86E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4049E3-1256-4C7D-8688-8AABBB1635D4}
+	EndGlobalSection
+EndGlobal
